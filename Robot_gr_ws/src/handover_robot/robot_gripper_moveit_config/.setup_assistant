@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: robot_description
+    relative_path: urdf/mirobot_urdf_2_rg2_gripper_85_gr_fix_joint6.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/robot_description.srdf
+  CONFIG:
+    author_name: Heng Chih Hsiao
+    author_email: johnson24653336@gmail.com
+    generated_timestamp: 1691830232

@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/hengchih/hengchih/Robot/Robot_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/franka_ros/franka_control/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/mvp_grasp/franka_control_wrappers/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/franka_ros/franka_example_controllers/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/franka_ros/franka_gazebo/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/franka_ros/franka_gripper/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/franka_ros/franka_hw/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/gazebo_ros_vacuum_gripper_debugger/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/my_pcl_tutorial/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/realsense_ros_gazebo/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/ur5/robotiq/robotiq_gazebo/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/vacuum_plugin/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/vision_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

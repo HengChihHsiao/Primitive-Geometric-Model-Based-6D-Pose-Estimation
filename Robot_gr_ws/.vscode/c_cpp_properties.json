@@ -1,0 +1,54 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/aruco_ros/aruco/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/aruco_ros/aruco_ros/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/ffmpeg_image_transport/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/franka_ros/franka_control/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/mvp_grasp/franka_control_wrappers/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/franka_ros/franka_example_controllers/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/franka_ros/franka_gazebo/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/franka_ros/franka_gripper/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/franka_ros/franka_hw/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/gazebo-pkgs/gazebo_grasp_plugin/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/gazebo_ros_vacuum_gripper_debugger/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/gazebo-pkgs/gazebo_state_plugins/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/gazebo-pkgs/gazebo_test_tools/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/gazebo-pkgs/gazebo_version_helpers/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/gazebo-pkgs/gazebo_world_plugin_loader/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/my_pcl_tutorial/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/general-message-pkgs/object_msgs_tools/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_gr_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_gr_ws/src/realsense_ros_gazebo/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/robotiq_85_gripper/robotiq_85_simulation/roboticsgroup_gazebo_plugins/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/roboticsgroup_upatras_gazebo_plugins/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_gr_ws/src/robotiq/robotiq_2f_gripper_action_server/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_gr_ws/src/robotiq/robotiq_2f_gripper_control/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_gr_ws/src/robotiq/robotiq_3f_gripper_articulated_gazebo_plugins/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_gr_ws/src/robotiq/robotiq_3f_gripper_control/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_gr_ws/src/robotiq/robotiq_ethercat/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_gr_ws/src/robotiq/robotiq_ft_sensor/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/ur5/robotiq/robotiq_gazebo/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/universal_robot/ur_kinematics/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/vacuum_plugin/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/vision_msgs/include/**",
+        "/home/hengchih/hengchih/Robot/Robot_ws/src/vision_visp/visp_bridge/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
