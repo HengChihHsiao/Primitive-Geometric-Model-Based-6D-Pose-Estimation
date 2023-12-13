@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launch>
+
+  <!-- Load Parameter -->
+  
+  <!-- <param name="use_cpu" value="true" /> -->
+
+  <!-- Start yolov5 and ros wrapper -->
+  <node pkg="yolov8_ros" type="yolov8_sim.py" name="yolov8_ros" output="screen" >
+  </node>
+
+</launch>

@@ -1,0 +1,16 @@
+<launch>
+    <param name="use_sim_time" value="true" />
+    <!-- Launch Gazebo  -->
+    <include file="$(find robot_gazebo)/launch/mirobot_gr/robot_gr_gazebo_world.launch" />
+
+    <!-- ros_control arm launch file -->
+    <include file="$(find robot_gazebo)/launch/mirobot_gr/robot_gr_gazebo_states.launch" />   
+
+    <!-- ros_control trajectory control  arm launch file -->
+    <include file="$(find robot_gazebo)/launch/mirobot_gr/robot_gr_trajectory_controller.launch" />
+
+    <!-- moveit launch file -->
+    <!-- <include file="$(find robot_gr_moveit_config)/launch/moveit_planning_execution.launch" /> -->
+    <include file="$(find robot_gripper_moveit_config)/launch/moveit_planning_execution.launch" />
+
+</launch>
