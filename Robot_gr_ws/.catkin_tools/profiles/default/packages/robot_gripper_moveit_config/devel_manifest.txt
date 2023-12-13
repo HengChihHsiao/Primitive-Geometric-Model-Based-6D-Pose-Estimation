@@ -1,5 +1,0 @@
-handover_robot/robot_gripper_moveit_config
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robot_gripper_moveit_config/cmake.lock /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/./cmake.lock
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robot_gripper_moveit_config/lib/pkgconfig/robot_gripper_moveit_config.pc /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/lib/pkgconfig/robot_gripper_moveit_config.pc
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robot_gripper_moveit_config/share/robot_gripper_moveit_config/cmake/robot_gripper_moveit_configConfig.cmake /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/share/robot_gripper_moveit_config/cmake/robot_gripper_moveit_configConfig.cmake
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robot_gripper_moveit_config/share/robot_gripper_moveit_config/cmake/robot_gripper_moveit_configConfig-version.cmake /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/share/robot_gripper_moveit_config/cmake/robot_gripper_moveit_configConfig-version.cmake

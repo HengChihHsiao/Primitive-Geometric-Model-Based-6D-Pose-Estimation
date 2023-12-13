@@ -1,5 +1,0 @@
-handover_robot/robot_description
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robot_description/cmake.lock /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/./cmake.lock
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robot_description/lib/pkgconfig/robot_description.pc /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/lib/pkgconfig/robot_description.pc
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/share/robot_description/cmake/robot_descriptionConfig.cmake
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/share/robot_description/cmake/robot_descriptionConfig-version.cmake

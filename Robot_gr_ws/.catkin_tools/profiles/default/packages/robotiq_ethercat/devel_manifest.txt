@@ -1,6 +1,0 @@
-robotiq/robotiq_ethercat
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robotiq_ethercat/cmake.lock /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/./cmake.lock
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robotiq_ethercat/lib/librobotiq_ethercat.so /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/lib/librobotiq_ethercat.so
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robotiq_ethercat/lib/pkgconfig/robotiq_ethercat.pc /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/lib/pkgconfig/robotiq_ethercat.pc
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robotiq_ethercat/share/robotiq_ethercat/cmake/robotiq_ethercatConfig.cmake /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/share/robotiq_ethercat/cmake/robotiq_ethercatConfig.cmake
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robotiq_ethercat/share/robotiq_ethercat/cmake/robotiq_ethercatConfig-version.cmake /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/share/robotiq_ethercat/cmake/robotiq_ethercatConfig-version.cmake

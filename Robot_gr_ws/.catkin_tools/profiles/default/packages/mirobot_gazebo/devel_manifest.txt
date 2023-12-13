@@ -1,5 +1,0 @@
-RosForMirobot-master/mirobot_gazebo
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/mirobot_gazebo/cmake.lock /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/./cmake.lock
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/mirobot_gazebo/lib/pkgconfig/mirobot_gazebo.pc /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/lib/pkgconfig/mirobot_gazebo.pc
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/mirobot_gazebo/share/mirobot_gazebo/cmake/mirobot_gazeboConfig.cmake /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/share/mirobot_gazebo/cmake/mirobot_gazeboConfig.cmake
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/mirobot_gazebo/share/mirobot_gazebo/cmake/mirobot_gazeboConfig-version.cmake /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/share/mirobot_gazebo/cmake/mirobot_gazeboConfig-version.cmake

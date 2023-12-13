@@ -1,5 +1,0 @@
-Yolov5_ros/yolov5_ros/yolov5_ros
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/yolov5_ros/cmake.lock /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/./cmake.lock
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/yolov5_ros/lib/pkgconfig/yolov5_ros.pc /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/lib/pkgconfig/yolov5_ros.pc
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/yolov5_ros/share/yolov5_ros/cmake/yolov5_rosConfig-version.cmake /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/share/yolov5_ros/cmake/yolov5_rosConfig-version.cmake
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/yolov5_ros/share/yolov5_ros/cmake/yolov5_rosConfig.cmake /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/share/yolov5_ros/cmake/yolov5_rosConfig.cmake

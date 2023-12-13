@@ -1,6 +1,0 @@
-robotiq/robotiq_modbus_tcp
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robotiq_modbus_tcp/cmake.lock /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/./cmake.lock
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robotiq_modbus_tcp/lib/pkgconfig/robotiq_modbus_tcp.pc /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/lib/pkgconfig/robotiq_modbus_tcp.pc
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robotiq_modbus_tcp/lib/python3/dist-packages/robotiq_modbus_tcp/__init__.py /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/lib/python3/dist-packages/robotiq_modbus_tcp/__init__.py
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robotiq_modbus_tcp/share/robotiq_modbus_tcp/cmake/robotiq_modbus_tcpConfig.cmake /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/share/robotiq_modbus_tcp/cmake/robotiq_modbus_tcpConfig.cmake
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robotiq_modbus_tcp/share/robotiq_modbus_tcp/cmake/robotiq_modbus_tcpConfig-version.cmake /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/share/robotiq_modbus_tcp/cmake/robotiq_modbus_tcpConfig-version.cmake

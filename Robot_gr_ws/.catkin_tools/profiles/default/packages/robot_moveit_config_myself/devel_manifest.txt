@@ -1,5 +1,0 @@
-handover_robot/robot_moveit_config_myself
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robot_moveit_config_myself/cmake.lock /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/./cmake.lock
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robot_moveit_config_myself/lib/pkgconfig/robot_moveit_config_myself.pc /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/lib/pkgconfig/robot_moveit_config_myself.pc
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robot_moveit_config_myself/share/robot_moveit_config_myself/cmake/robot_moveit_config_myselfConfig-version.cmake /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/share/robot_moveit_config_myself/cmake/robot_moveit_config_myselfConfig-version.cmake
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robot_moveit_config_myself/share/robot_moveit_config_myself/cmake/robot_moveit_config_myselfConfig.cmake /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/share/robot_moveit_config_myself/cmake/robot_moveit_config_myselfConfig.cmake

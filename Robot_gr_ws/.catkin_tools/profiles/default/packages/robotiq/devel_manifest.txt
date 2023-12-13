@@ -1,2 +1,0 @@
-robotiq/robotiq
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/robotiq/cmake.lock /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/./cmake.lock

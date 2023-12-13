@@ -1,2 +1,0 @@
-gazebo_ros_pkgs/gazebo_ros_pkgs
-/home/hengchih/hengchih/Robot/Robot_gr_ws/devel/.private/gazebo_ros_pkgs/cmake.lock /home/hengchih/hengchih/Robot/Robot_gr_ws/devel/./cmake.lock
